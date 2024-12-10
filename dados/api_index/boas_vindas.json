@@ -1,4 +1,4 @@
 [{
     "mensagem": "Seja bem-vindo a API pessoal do Gian!",
-    "instrucao": " utilize 'https://gianluca-onisanti.github.io/[json-desejado].json)' no teu projeto para acessar."
+    "instrucao": " utilize 'https://gianluca-onisanti.github.io/gso_api/dados/[setor-desejado]/[json-desejado].json)' no teu projeto para acessar."
 }]
