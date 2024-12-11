@@ -6,8 +6,24 @@
             "dificuldade": "Baixa",
             "custo": "Médio"
         },
-        "ingredientes": "600 à 700ml de Iogurte s/ Açúcar;2x Caixas de Leite Condensado;2x Caixas de Creme de Leite;3x Maracujás Azedos;Suco e Raspas de 1 Limão;1x Gelatina s/ Sabor;Pitada de Sal;3 À 4 Colheres de Açúcar Cristal (ou Refinado);",
-        "cobertura": "1x Maracujá Azedo;1x Caixa de Creme de Leite; 1x Colher (Cheia) de Manteiga;300g de Chocolate Meio Amargo;5x Nozes ou Castanhas de sua preferência;",
-        "modo_prepero": "Macere ou triture levemente a polpa de 2 maracujás e penere o suco para retirar o excesso de semente.<br />Em uma pote, misture o suco peneirado, iogute, creme de leite, leite condensado,o acúcar, a pitada de sal, o maracujá restante com as sementes, o suco de 1 limão e um pouco das raspas da casca.<br />Dissolva a gelatina insípida em água quente e jogue na mistura e mexa tudo muito bem. Enforme o doce na travessa de sua preferência e deixe descansando na geladeira.<br /><br />(Opcional) Para a cobertura, corte as nozes/castanhas grosseiramente e reserve-as. Em seguida, derreta o chocolate em banho maria (ou no microondas de 30 em 30 segundos na potência média).<br />Derreta a manteiga em uma panela em fogo baixo e acrescente o creme de leite e o chocolate meio amargo. Mexa bem para não grudar, e após chegar na textura de creme homogêneo desligue o fogo e acrescente as nozes picadas.<br />Retire rapidamente a forma da geladeira, despeje a polpa do maracuja restante por cima do doce, e finalize em cima com a ganache. Retorne ela para a geladeira e aguarde entre 4 a 5 horas. Bom apetite!"
+        "ingredientes": {
+            "principal": [
+                "600 à 700ml de Iogurte s/ Açúcar",
+                "2x Caixas de Leite Condensado",
+                "2x Caixas de Creme de Leite", 
+                "3x Maracujás Azedos", 
+                "Suco e Raspas de 1 Limão",
+                "1x Gelatina s/ Sabor",
+                "Pitada de Sal",
+                "3 À 4 Colheres de Açúcar Cristal (ou Refinado)"
+            ],
+            "complemento": "Cobertura",
+            "secundario": [
+                "1x Colher (Cheia) de Manteiga",
+                "300g de Chocolate Meio Amargo",
+                "5x Nozes ou Castanhas de sua preferência"
+            ]
+        },
+        "modo_prepero": "Macere/triture levemente a polpa de 2 maracujás e penere o suco para retirar o excesso de semente.<br />Em uma pote, misture o suco peneirado, iogute, creme de leite, leite condensado,o acúcar, a pitada de sal, o maracujá restante com as sementes, o suco de 1 limão e um pouco das raspas da casca.<br />Dissolva a gelatina insípida em água quente e jogue na mistura e mexa tudo muito bem. Enforme o doce na travessa de sua preferência e deixe descansando na geladeira.<br /><br />(Opcional) Para a cobertura, corte as nozes/castanhas grosseiramente e reserve-as. Em seguida, derreta o chocolate em banho maria (ou no microondas de 30 em 30 segundos na potência média).<br />Derreta a manteiga em uma panela em fogo baixo e acrescente o creme de leite e o chocolate meio amargo. Mexa bem para não grudar, e após chegar na textura de creme homogêneo desligue o fogo e acrescente as nozes picadas.<br />Retire rapidamente a forma da geladeira, despeje a polpa do maracuja restante por cima do doce, e finalize em cima com a ganache. Retorne ela para a geladeira e aguarde entre 4 a 5 horas. Bom apetite!"
     }
 ]
